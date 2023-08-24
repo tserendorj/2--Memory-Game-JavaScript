@@ -12,6 +12,7 @@
  */
 
  let cardIcon = [];
+ let tesstt = [];
  for (let i = 0; i < cardsList.length; i++) {
    cardIcon[i] = cardsList[i].innerHTML;
  }
